@@ -1,0 +1,13 @@
+{
+    "name": "AuthGuard",
+    "alias": "authguard",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Elightwalk\\AuthGuard\\Providers\\AuthGuardServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

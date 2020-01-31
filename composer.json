@@ -1,0 +1,28 @@
+{
+    "name": "elightwalk/authguard",
+    "description": "",
+    "authors": [
+        {
+            "name": "Elightwalk Technology",
+            "email": "hello@elightwalk.com"
+        }
+    ],
+    "require": {
+        "elightwalk/laravel-modules": "dev-master"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Elightwalk\\AuthGuard\\Providers\\AuthGuardServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Elightwalk\\AuthGuard\\": ""
+        }
+    }
+}
