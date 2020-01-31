@@ -38,7 +38,10 @@
             ],
             "aliases": {
 
-            }
+            },
+            "dont-discover": [
+                "laravel/dusk"
+            ]
         }
     },
     "autoload": {
