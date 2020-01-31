@@ -1,11 +1,20 @@
 {
     "name": "elightwalk/authguard",
+    "description": "Manage laravel auth guard",
+    "keywords": [
+        "laravel guard",
+        "laravel_module",
+        "guard",
+        "php",
+        "elightwalk"
+    ],
     "license": "MIT",
-    "description": "",
     "authors": [
         {
-            "name": "Elightwalk Technology",
-            "email": "hello@elightwalk.com"
+        "name": "Elightwalk Technology",
+        "email": "hello@elightwalk.com",
+        "homepage": "https://elightwalk.com",
+        "role": "Developer"
         }
     ],
     "require": {
